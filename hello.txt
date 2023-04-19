@@ -6,3 +6,4 @@ master test
 hot-fix test
 
 pull success!
+pull success!
